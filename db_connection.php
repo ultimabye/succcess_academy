@@ -1,5 +1,5 @@
 <?php
-$sname = "ultima-byte";
+$sname = "localhost";
 $uname = "root";
 $password = "1122";
 $db_name = "successor_db";
