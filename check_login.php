@@ -1,6 +1,7 @@
 <?php
 session_start();
 require_once("db_connection.php");
+
 if(isset($_POST['subLogin'])){
 	$userName = $_POST['userNameInput'];
 	$password = $_POST['passwordInput'];
