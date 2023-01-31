@@ -1,5 +1,5 @@
 <?php
-$sname = "localhost";
+$sname = "127.0.0.1";
 $uname = "root";
 $password = "1122";
 $db_name = "successor_db";
