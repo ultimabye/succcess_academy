@@ -12,10 +12,9 @@ if(isset($_SESSION['login_sess'])) { ?>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Successor Computer Academy</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
-
+    <title>Successor Computer Academy - Best Computer Education in Sargodha</title>
+    <meta name="description" content="Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.">
+    <meta name="keywords" content="computer education, computer training, practical training, industrial training, latest computer technologies, computer academy, Sargodha">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -33,16 +32,29 @@ if(isset($_SESSION['login_sess'])) { ?>
     <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Successor Computer Academy",
+  "description": "Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Office no 14 Toheed Mall Queens Road sargodha",
+    "addressLocality": "Sargodha",
+    "addressRegion": "Punjab",
+    "postalCode": "40100",
+    "addressCountry": "Pakistan"
+  },
+  "telephone": "+91-1234567890",
+  "email": "info@successorcomputeracademy.com",
+  "url": "http://successorcomputeracademy.com"
+}
+</script>
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
 
-    <!-- =======================================================
-  * Template Name: OnePage - v4.10.0
-  * Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+    
 </head>
 
 

@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Successor Computer Academy</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Successor Computer Academy - Best Computer Education in Sargodha</title>
+    <meta name="description" content="Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.">
+    <meta name="keywords" content="computer education, computer training, practical training, industrial training, latest computer technologies, computer academy, Sargodha">
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
@@ -27,15 +27,30 @@
     <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Successor Computer Academy",
+  "description": "Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Office no 14 Toheed Mall Queens Road sargodha",
+    "addressLocality": "Sargodha",
+    "addressRegion": "Punjab",
+    "postalCode": "40100",
+    "addressCountry": "Pakistan"
+  },
+  "telephone": "+91-1234567890",
+  "email": "info@successorcomputeracademy.com",
+  "url": "http://successorcomputeracademy.com"
+}
+</script>
+
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
 
-    <!-- =======================================================
-  * Template Name: OnePage - v4.10.0
-  * Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+   
 
 </head>
 
@@ -195,7 +210,7 @@
                                 </svg>
                                 <i class="bx bxl-dribbble"></i>
                             </div>
-                            <h4><a href="contents.php">Advance Diploma in Accounting</a></h4>
+                            <h4><a href="contents.php">DIPLOMA OF ACCOUNTING</a></h4>
                             <p>An Advanced Diploma in Accounting is a higher level of education program designed to
                                 provide students with advanced knowledge and skills in accounting, covering topics such
                                 as financial reporting, audit and assurance, tax planning, and management accounting.
@@ -231,7 +246,7 @@
                                 </svg>
                                 <i class="bx bx-tachometer"></i>
                             </div>
-                            <h4><a href="contents.php">Business Management</a></h4>
+                            <h4><a href="contents.php">DIPLOMA OF BUSINESS MANAGEMENT</a></h4>
                             <p>Business management involves planning, organizing, leading and controlling the various
                                 functions and processes within an organization to achieve its goals and objectives.</p>
                         </div>
@@ -266,7 +281,7 @@
                                 </svg>
                                 <i class="bx bx-slideshow"></i>
                             </div>
-                            <h4><a href="contents.php">Information Technology</a></h4>
+                            <h4><a href="contents.php">Diploma of Information Technology</a></h4>
                             <p>Information technology (IT) is the use of computers, networks, and other digital
                                 technology to store, retrieve, and process information, as well as manage and
                                 communicate with stakeholders.</p>

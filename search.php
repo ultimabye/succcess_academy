@@ -11,7 +11,28 @@ $result = mysqli_query($conn,"SELECT * FROM students where rollno='$roll_no' ");
 <html>
 
 <head>
-    <title>Certificate of Completion</title>
+<title>Successor Computer Academy - Best Computer Education in Sargodha</title>
+    <meta name="description" content="Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.">
+    <meta name="keywords" content="computer education, computer training, practical training, industrial training, latest computer technologies, computer academy, Sargodha">
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Successor Computer Academy",
+  "description": "Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Office no 14 Toheed Mall Queens Road sargodha",
+    "addressLocality": "Sargodha",
+    "addressRegion": "Punjab",
+    "postalCode": "40100",
+    "addressCountry": "Pakistan"
+  },
+  "telephone": "+91-1234567890",
+  "email": "info@successorcomputeracademy.com",
+  "url": "http://successorcomputeracademy.com"
+}
+</script>
     <style>
     /* Add CSS styling for the certificate design here */
     /* Example styles: */

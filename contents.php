@@ -5,10 +5,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Successor Computer Academy</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
-
+    <title>Successor Computer Academy - Best Computer Education in Sargodha</title>
+    <meta name="description" content="Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.">
+    <meta name="keywords" content="computer education, computer training, practical training, industrial training, latest computer technologies, computer academy, Sargodha">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -27,15 +26,29 @@
     <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Successor Computer Academy",
+  "description": "Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Office no 14 Toheed Mall Queens Road sargodha",
+    "addressLocality": "Sargodha",
+    "addressRegion": "Punjab",
+    "postalCode": "40100",
+    "addressCountry": "Pakistan"
+  },
+  "telephone": "+91-1234567890",
+  "email": "info@successorcomputeracademy.com",
+  "url": "http://successorcomputeracademy.com"
+}
+</script>
+
+
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
-
-    <!-- =======================================================
-  * Template Name: OnePage - v4.10.0
-  * Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 
 </head>
 
@@ -51,12 +64,11 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                    <li><a class="nav-link scrollto" href="#about">About</a></li>
-                    <li><a class="nav-link scrollto" href="#services">Programs</a></li>
-                    <li><a class="nav-link scrollto" href="#team">Team</a></li>
+                    <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
+                    <li><a class="nav-link scrollto" href="index.php">About</a></li>
+                    <li><a class="nav-link scrollto" href="index.php">Programs</a></li>
                     <li><a class="nav-link scrollto" href="results.php">Results</a></li>
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                    <li><a class="nav-link scrollto" href="index.php">Contact</a></li>
                     <li><a class="getstarted scrollto" href="signInFourm.php">Sign In</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
@@ -80,28 +92,97 @@
                     data-aos-delay="200">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4 class="title"><a href="">Advance Diploma in Accounting</a></h4>
+                        <h3 class="title"><a href="">DIPLOMA OF ACCOUNTING (2 Year Program)</a></h4>
                         <p class="description">An Advance Diploma in Accounting is a post-graduate level program that
                             provides students with a comprehensive understanding of accounting and financial management
                             principles. The program is designed for students who have already completed a diploma or
                             degree in accounting or a related field, and are looking to deepen their knowledge and
                             skills in the field.
-
-                            The course typically covers a range of topics including financial accounting, management
-                            accounting, taxation, auditing, financial management, business law, computerized accounting,
-                            and ethics and professional practice. The program is designed to provide students with a
-                            strong foundation in accounting principles and practices, and to prepare them for careers in
-                            accounting, financial management, and other related fields.
-
-                            The course may be offered in a classroom setting, or online, and may be full-time or
-                            part-time. Some of the program may include internships or other hands-on learning
-                            opportunities, which allow students to apply their knowledge in real-world settings.
-
-                            Graduates of an Advance Diploma in Accounting program may find employment as accountants,
-                            financial analysts, financial managers, tax consultants, auditors, and other related roles
-                            in various industries. Some may pursue further education and professional certifications
-                            such as ACCA, CMA, CPA etc.
+</p>
+                            <br>
+                            <h3 class="title">DIPLOMA OF ACCOUNTING (1 Year)</h3>
+                            <ul style="list-style-type: none">
+                                <li>1. TAX MANAGEMENT</li>
+                                <li>2. COMMERCIAL LAW</li>
+                                <li>3. FAINANCIAL MANAGEMENT</li>
+                                <li>4. PRINCIPALS OF ACCOUNTING</li>
+                                <li>5. FAINANCIAL ACCOUNTING</li>
+                            </ul>
+                            <br>
+                            <h3 class="title">ADVANCE DIPLOMA OF ACCOUNTING(1 Year)</h3>
+                            <ul style="list-style-type: none">
+                                <li>6. FUNDAMENTALS OF ECONOMICS</li>
+                                <li>7. INSOLVENCY AND AUDITING</li>
+                                <li>8. COMPANY FAINANCIAL ACCOUNTING </li>
+                                <li>9. MANAGEMENT ACCOUNTING</li>
+                                <li>10. BUSINESS LAW</li>
+                            </ul>
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-12 d-flex flex-column align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
+                    data-aos-delay="200">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-slideshow"></i></div>
+                        <h4 class="title"><a href="">Diploma of Information Technology</a></h4>
+                        <p class="description">An Information Technology (IT) course is a program that provides students
+                            with the knowledge and skills needed to design, develop, and maintain computer systems and
+                            networks. The course is designed for students who have an interest in technology and
+                            programming, and want to learn how to develop, implement, and manage computer systems and
+                            networks. </p>
+                            <br>
+                            <h3 class="title">Diploma of Information Technology (1 Year)</h3>
+                            <ul style="list-style-type: none">
+                                <li>1. Unit name</li>
+                                <li>2. Promote workplace cyber security awareness  </li>
+                                <li>3. Originate and develop IT concepts</li>
+                                <li>4. Manage client problems</li>
+                                <li>5. Install and configure virtual machines</li>
+                                <li>6. Apply IP, ethics and privacy policies in ICT environments</li>
+                                <li>7. Match ICT needs with the strategic direction of the organisation</li>
+                                <li>8. Gather, analyse and interpret threat data</li>
+                                <li>9. Manage network security</li>
+                            </ul>
+                            <br>
+                            <h3 class="title">ADVANCE DIPLOMA OF Information Technology(1 Year)</h3>
+                            <ul style="list-style-type: none">
+                                <li>10. Utilise design methodologies for security architecture</li>
+                                <li>11. Perform cyber security risk assessments</li>
+                                <li>12. Design, build and test network servers</li>
+                                <li>13. Install an enterprise virtual computing environment</li>
+                                <li>14. Plan, implement and test enterprise communication solutions</li>
+                                <li>15. Install and manage complex ICT networks</li>
+                                <li>16. Configure and manage advanced virtual computing environments</li>
+                            </ul>
+                    </div>
+                </div>
+                                <div class="col-md-12 col-lg-12 d-flex flex-column align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
+                    data-aos-delay="200">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-tachometer"></i></div>
+                        <h4 class="title"><a href="">DIPLOMA OF BUSINESS MANAGEMENT (2 Years)</a></h4>
+                        <p class="description">A Business Management course is a program that provides students with the
+                            knowledge and skills needed to effectively manage and lead organizations. The course is
+                            designed for students who have an interest in business, and want to learn how to manage and
+                            grow companies in a variety of industries.
                         </p>
+                        <br>
+                            <h3 class="title">DIPLOMA OF BUSINESS MANAGEMENT (1 Year)</h3>
+                            <ul style="list-style-type: none">
+                                <li>1. Organisational Behaviour</li>
+                                <li>2. Management Attribute and Skills </li>
+                                <li>3. Clients and Market</li>
+                                <li>4. Innovation and Commercialization</li>
+                                <li>5. Strategic Business Simulations</li>
+                            </ul>
+                            <br>
+                            <h3 class="title">ADVANCE DIPLOMA OF BUSINESS MANAGEMENT(1 Year)</h3>
+                            <ul style="list-style-type: none">
+                                <li>6. Business Law</li>
+                                <li>7. Fundamentals of Business</li>
+                                <li>8. Project Management</li>
+                                <li>9. Leading Innovation and Change</li>
+                                <li>10. Corporate Strategies</li>
+                            </ul>
                     </div>
                 </div>
                 <div class="col-md-12 col-lg-12 d-flex flex-column align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
@@ -130,32 +211,7 @@
                             business or pursue further education in related field.</p>
                     </div>
                 </div>
-                <div class="col-md-12 col-lg-12 d-flex flex-column align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
-                    data-aos-delay="200">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-tachometer"></i></div>
-                        <h4 class="title"><a href="">Business Management</a></h4>
-                        <p class="description">A Business Management course is a program that provides students with the
-                            knowledge and skills needed to effectively manage and lead organizations. The course is
-                            designed for students who have an interest in business, and want to learn how to manage and
-                            grow companies in a variety of industries.
 
-                            The course typically covers a range of topics including marketing, finance, operations,
-                            human resources, and strategic management. Students will learn to analyze data, create
-                            business plans, and make strategic decisions to achieve organizational goals. The course
-                            will also cover leadership, ethics and communication skills, as well as the legal and
-                            regulatory environment in which businesses operate.
-
-                            The course may be offered in a classroom setting, or online, and may be full-time or
-                            part-time. It may include hands-on projects, assignments, and case studies that allow
-                            students to apply their knowledge and skills in real-world scenarios.
-
-                            Graduates of a Business Management course may find employment as managers, executives,
-                            consultants, business analysts, or other related roles in various industries such as
-                            finance, marketing, operations, human resources and many more. Some may also start their own
-                            business or pursue further education in related field such as an MBA.</p>
-                    </div>
-                </div>
                 <div class="col-md-12 col-lg-12 d-flex flex-column align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
                     data-aos-delay="200">
                     <div class="icon-box">
@@ -184,34 +240,7 @@
                             or pursue further education in related field.</p>
                     </div>
                 </div>
-                <div class="col-md-12 col-lg-12 d-flex flex-column align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
-                    data-aos-delay="200">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-slideshow"></i></div>
-                        <h4 class="title"><a href="">Information Technology</a></h4>
-                        <p class="description">An Information Technology (IT) course is a program that provides students
-                            with the knowledge and skills needed to design, develop, and maintain computer systems and
-                            networks. The course is designed for students who have an interest in technology and
-                            programming, and want to learn how to develop, implement, and manage computer systems and
-                            networks.
-
-                            The course typically covers a range of topics including programming languages, database
-                            management, computer networks, cybersecurity, and IT project management. Students will learn
-                            to use industry-standard tools and technologies such as C++, Java, Python, and SQL to
-                            develop and maintain computer systems and applications. The course will also cover the
-                            principles of computer networks, and how to design, implement and secure them, as well as
-                            the concepts of agile project management and IT service management.
-
-                            The course may be offered in a classroom setting, or online, and may be full-time or
-                            part-time. It may include hands-on projects, assignments, and practical exercises that allow
-                            students to apply their knowledge and skills in real-world scenarios.
-
-                            Graduates of an IT course may find employment as IT professionals, software developers,
-                            network engineers, system administrators, cybersecurity specialists, or other related roles
-                            in various industries such as technology, finance, healthcare, and many more. Some may also
-                            pursue further education in related field such as computer science or cyber security.</p>
-                    </div>
-                </div>
+                
                 <div class="col-md-12 col-lg-12 d-flex flex-column align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in"
                     data-aos-delay="200">
                     <div class="icon-box">
