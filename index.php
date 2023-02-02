@@ -9,7 +9,7 @@
     <meta name="description" content="Successor Computer Academy provides best computer education in Sargodha. Our expert team provides practical and industrial training in latest computer technologies.">
     <meta name="keywords" content="computer education, computer training, practical training, industrial training, latest computer technologies, computer academy, Sargodha">
 
-    <!-- Favicons -->
+    <!-- Favicons           -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
