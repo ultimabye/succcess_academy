@@ -41,7 +41,7 @@
     "postalCode": "40100",
     "addressCountry": "Pakistan"
   },
-  "telephone": "+91-1234567890",
+  "telephone": "04832146663",
   "email": "info@successorcomputeracademy.com",
   "url": "http://successorcomputeracademy.com"
 }
@@ -547,7 +547,7 @@
                                 <div class="phone">
                                     <i class="bi bi-phone"></i>
                                     <h4>Call:</h4>
-                                    <p>+1 5589 55488 55s</p>
+                                    <p>04832146663</p>
                                 </div>
 
                             </div>
