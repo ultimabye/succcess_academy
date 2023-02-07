@@ -123,7 +123,7 @@
                     data-aos-delay="200">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-slideshow"></i></div>
-                        <h4 class="title"><a href="">Diploma of Information Technology</a></h4>
+                        <h4 class="title"><a href="">Diploma of Information Technology(2 Years)</a></h4>
                         <p class="description">An Information Technology (IT) course is a program that provides students
                             with the knowledge and skills needed to design, develop, and maintain computer systems and
                             networks. The course is designed for students who have an interest in technology and
