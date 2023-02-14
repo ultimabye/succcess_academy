@@ -204,7 +204,7 @@ if (count($_POST) > 0) {
                     <p>Instructor's Signature</p>
                 </div>
                 <div class="float-right">
-                    <img id="seal" src="assets/img/frame.png" alt="QR Image">
+                    <img id="seal" style="margin-bottom: 64px;" src="assets/img/frame.png" alt="QR Image">
                     <p>Authorized Signature</p>
 
                 </div>
