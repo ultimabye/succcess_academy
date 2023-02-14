@@ -198,13 +198,14 @@ if (count($_POST) > 0) {
                 <p>To student through internal assessment/ examination held by</p>
                 <p id="recipient">Successor Computer Academy</p>
                 <P>training center/Workshop of the skill education Organiztion</P>
+                <img id="seal" src="assets/img/frame.png" alt="QR Image">
             </div>
             <div class="text-left signature">
                 <div class="float-left">
                     <p>Instructor's Signature</p>
                 </div>
                 <div class="float-right">
-                    <img id="seal" style="margin-bottom: 64px;" src="assets/img/frame.png" alt="QR Image">
+                    
                     <p>Authorized Signature</p>
 
                 </div>
@@ -213,7 +214,7 @@ if (count($_POST) > 0) {
             <div id="footer" class="text-center">
                 <p>Issued by Successor computer Academy</p>
             </div>
-
+            
         </div>
         <?php
         $i++;
