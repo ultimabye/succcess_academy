@@ -194,7 +194,7 @@ while($row = mysqli_fetch_array($result)) {
         <div id="footer" class="text-center">
             <p>Issued by Successor computer Academy</p>
         </div>
-        <img id="seal" src="qr.png" alt="QR Image">
+        <img id="seal" src="frame.png" alt="QR Image">
     </div>
     <?php
 $i++;
